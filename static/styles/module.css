@@ -1,0 +1,3 @@
+:scope {
+    --text-color-0001: var(--my-variable, blue);
+}
