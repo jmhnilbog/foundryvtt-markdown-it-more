@@ -14,12 +14,8 @@
       "discord": "discordID#0001"
     }
   ],
-  "dependencies": [
-
-  ],
-  "conflicts": [
-    
-  ],
+  "dependencies": [],
+  "conflicts": [],
   "esmodules": [
     "/scripts/module.js"
   ],
@@ -27,7 +23,8 @@
     "/scripts/lib/lib.js"
   ],
   "styles": [
-    "/styles/module.css"
+    "/styles/module.css",
+    "/styles/main.css"
   ],
   "languages": [
     {
