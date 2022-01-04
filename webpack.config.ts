@@ -111,6 +111,9 @@ const configuration = (env: any) => {
                     {
                         from: 'static',
                         noErrorOnMissing: true,
+                    },
+                    {
+                        from: 'module.json'
                     }
                 ],
 
